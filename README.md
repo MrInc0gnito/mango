@@ -1,3 +1,5 @@
+Support for Mango has stopped due to the lack of hosting options, and how old all the game files are! If you wish to host Neocities, use Melon but follow these steps, although these steps are outdated you can find out by yourself, what you need to do!
+
 # How To Host Mango
 1. Copy all the code in index.html
 2. Download a.html
